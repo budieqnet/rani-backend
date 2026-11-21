@@ -1,0 +1,8 @@
+pymupdf
+numpy
+flask
+flask-cors
+python-dotenv
+requests
+streamlit
+rank-bm25

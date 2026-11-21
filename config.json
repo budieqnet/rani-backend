@@ -1,0 +1,29 @@
+{
+    "DAFTAR_SUMBER": [
+        "sumber/khi-id.pdf",
+        "sumber/sumber2.txt",
+        "sumber/perma-1-2014-prodeo.pdf",
+        "sumber/perma-1-2016-prosedur-mediasi.pdf",
+        "sumber/perma-1-2019-perkara-elektronik-a.pdf",
+        "sumber/perma-14-2016-penyelesaian-ekonomi-syariah.pdf",
+        "sumber/perma-2-2015-gugatan-sederhana-a.pdf",
+        "sumber/perma-3-2017-perkara-perempuan.pdf",
+        "sumber/perma-4-2019-gugatan-sederhana-b.pdf",
+        "sumber/perma-5-2019-dispensasi-nikah.pdf",
+        "sumber/perma-7-2022-perkara-elektronik-b.pdf",
+        "sumber/pp-10-1983-izin-kawin-pns-a.pdf",
+        "sumber/pp-45-1990-izin-kawin-pns-b.pdf",
+        "sumber/pp-9-1975-pelaksana-perkawinan.pdf",
+        "sumber/uu-1-1974-perkawinan-a.pdf",
+        "sumber/uu-16-2019-perkawinan-b.pdf",
+        "sumber/uu-21-2008-perbankan-syariah.pdf",
+        "sumber/uu-3-2006-peradilan-agama-b.pdf",
+        "sumber/uu-41-2004-wakaf.pdf",
+        "sumber/uu-50-2009-peradilan-agama-c.pdf",
+        "sumber/uu-7-1989-peradilan-agama-a.pdf",
+        "sumber/uu-18-2003-advokat.pdf",
+        "sumber/uu-19-2008-surat-berharga-syariah-negara.pdf",
+        "sumber/uu-48-2009-kekuasaan-hakim.pdf"
+    ],
+    "CACHE_FILENAME": "embeddings_rani.npy"
+}
